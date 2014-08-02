@@ -1,0 +1,29 @@
+{
+  "name": "refresh-spinner",
+  "version": "0.0.1",
+  "description": "pull to refresh spinner",
+  "main": "gulpfile.js",
+  "dependencies": {
+    "gulp": "^3.8.7",
+    "sudo": "^1.0.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/epitaphmike/refresh-spinner.git"
+  },
+  "keywords": [
+    "refresh",
+    "spinner",
+    "css"
+  ],
+  "author": "Michael Sharer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/epitaphmike/refresh-spinner/issues"
+  },
+  "homepage": "https://github.com/epitaphmike/refresh-spinner"
+}
