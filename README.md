@@ -14,6 +14,6 @@ http://jsfiddle.net/csswizardry/M2D4M/
 
 ## Upcoming build
 
-This is a small part of the pull-to-refresh feature in the new NHL app. Upcoming features include
-1. pull-spin 1:1 ratio unitl you hit the threshold and the latest data begins to laod and the spinner spins freely.
-2. Stop spin when data loads and spinner is hidden.
+This is a small part of the pull-to-refresh feature in the new NHL app. Upcoming features include:
+- [pull-spin 1:1 ratio unitl you hit the threshold and the latest data begins to laod and the spinner spins freely.]
+- [Stop spin when data loads and spinner is hidden.]
