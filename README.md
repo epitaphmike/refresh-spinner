@@ -3,6 +3,10 @@
 # refresh-spinner
 > NHL app pull-to-refresh spinner
 
+## Current Version
+
+[Rawgit link](https://cdn.rawgit.com/epitaphmike/refresh-spinner/master/spinner.html)
+
 ## Influence
 
 This is prety much just a minor tweak to Harry Roberts of @csswizardry. All the credit goes to him for now!
