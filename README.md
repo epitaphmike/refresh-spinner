@@ -1,4 +1,4 @@
-
+<!-- Markdown build with: http://hashify.me/ -->
 
 # refresh-spinner
 > NHL app pull-to-refresh spinner
